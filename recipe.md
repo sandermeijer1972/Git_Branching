@@ -1,7 +1,7 @@
 ## Arretjes Cake  
 Ik heb niet gekozen voor een recept van _the Happy Pear_ omdat ik daar niet echt trek van kreeg. In plaats daarvan een eigen recept voor **arretjescake**, niet zomaar 
 een calorie-bom, maar een echte _calorie_-**MOAB**. Arretjescake wordt door het uiterlijk na aansnijden ook wel **Salami di chocolati** genoemd.  
->[arretjescake](https://github.com/sandermeijer1972/Git_Branching/arretjescake.jpg)  
+>[arretjescake](arretjescake.jpg)  
 
 ### Ingrediënten
 
